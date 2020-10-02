@@ -1,0 +1,2 @@
+allians_arbotix:car_driver:imu_calib:imu_filter_madgwick:lidar/rplidar_ros:robot_localization:teleop_twist_keyboard:zxcar:zxcar_nav
+-DCATKIN_DEVEL_PREFIX=/home/sk/workspas/demo_zxcar/devel -DCMAKE_INSTALL_PREFIX=/home/sk/workspas/demo_zxcar/install -G Unix Makefiles

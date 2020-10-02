@@ -1,0 +1,8 @@
+prefix=/home/sukai/workspace/ros_workTopic/src/car_driver/cmake-build-debug/devel
+
+Name: car_driver
+Description: Description of car_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

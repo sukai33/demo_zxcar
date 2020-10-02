@@ -1,0 +1,8 @@
+prefix=/home/sk/workspas/demo_zxcar/devel
+
+Name: zxcar_nav
+Description: Description of zxcar_nav
+Version: 0.0.0
+Cflags: -I/home/sk/workspas/demo_zxcar/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure

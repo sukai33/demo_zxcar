@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sukai/workspace/ros_workTopic/src/car_driver/cmake-build-debug/devel/setup.sh
